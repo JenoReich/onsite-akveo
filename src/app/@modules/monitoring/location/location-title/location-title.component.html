@@ -1,0 +1,9 @@
+<!--
+    show matcard only after data has been loaded
+-->
+<mat-card *ngIf="this.storage.locationData != undefined" >
+    <mat-card-content>
+         <h2>{{ locationID }}</h2>
+         <h2>{{ location_name }}</h2>
+    </mat-card-content>
+</mat-card>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 76 110" style="enable-background:new 0 0 76 110;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4B4B4B;}
+	.st1{fill:#7C7C7C;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#E1D9BE;}
+	.st4{fill:#E20074;}
+	.st5{fill:#B0005A;}
+	.st6{}
+	.st7{fill:#FFFFFF;stroke:#7C7C7C;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;stroke:#7C7C7C;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#7C7C7C;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#7C7C7C;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="13" y="36" class="st4" width="62" height="52"/>
+	<path class="st5" d="M75,36v51H14V36H75 M76,35H13v53h63V35L76,35z"/>
+</g>
+<g>
+	<rect y="50" class="st4" width="37" height="51"/>
+	<path class="st5" d="M37,50v50H1V50H37 M38,49H0v52h38V49L38,49z"/>
+</g>
+<g>
+	<rect x="35" y="46" class="st4" width="37" height="54"/>
+	<path class="st5" d="M72,46v53H36V46H72 M73,45H35v55h38V45L73,45z"/>
+</g>
+<g>
+	<rect x="2" y="33" class="st4" width="61" height="29"/>
+	<path class="st5" d="M63,33v28H3V33H63 M64,32H2v30h62V32L64,32z"/>
+</g>
+<g>
+	<rect x="8" y="40" width="60" height="41"/>
+</g>
+<g>
+	<rect x="14" y="97" width="48" height="13"/>
+</g>
+<g>
+	<rect x="6" y="82" class="st2" width="63" height="15"/>
+	<path class="st1" d="M69,82v14H7V82H69 M70,81H6v16h64V81L70,81z"/>
+</g>
+<g>
+	<rect x="6" y="41" class="st6 SCREEN TOP TOP1" id="TOP1" fill="#555555" width="31" height="17"/>
+	<path d="M37,41v16H7V41H37 M38,40H6v18h32V40L38,40z"/>
+</g>
+<g>
+	<rect x="38" y="41" class="st6 SCREEN TOP TOP2" id="TOP2" fill="#555555" width="31" height="17"/>
+	<path d="M69,41v16H39V41H69 M70,40H38v18h32V40L70,40z"/>
+</g>
+<g>
+	<rect x="6" y="60" class="st6 SCREEN INFO INFO1" id="INFO1" fill="#555555" width="11" height="21"/>
+	<path d="M17,60v20H7V60H17 M18,59H6v22h12V59L18,59z"/>
+</g>
+<g>
+	<rect x="23" y="60" class="st6 SCREEN INFO INFO2" id="INFO2" fill="#555555" width="11" height="21"/>
+	<path d="M34,60v20H24V60H34 M35,59H23v22h12V59L35,59z"/>
+</g>
+<g>
+	<rect x="41" y="60" class="st6 SCREEN INFO INFO3" id="INFO3" fill="#555555" width="11" height="21"/>
+	<path d="M52,60v20H42V60H52 M53,59H41v22h12V59L53,59z"/>
+</g>
+<g>
+	<rect x="58" y="60" class="st6 SCREEN INFO INFO4" id="INFO4" fill="#555555" width="11" height="21"/>
+	<path d="M69,60v20H59V60H69 M70,59H58v22h12V59L70,59z"/>
+</g>
+</svg>

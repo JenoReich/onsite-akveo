@@ -1,0 +1,6 @@
+{
+    "/api": {
+      "target": "https://onsite-local.art1st.hu",
+      "secure": true
+    }
+}

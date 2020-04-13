@@ -1,0 +1,11 @@
+<mat-expansion-panel>
+    <mat-expansion-panel-header>
+      <mat-panel-title>Client/Player</mat-panel-title> 
+    </mat-expansion-panel-header>
+    <mat-list>
+        <mat-list-item class="line_header">{{serviceData.serviceID}} </mat-list-item>
+        <mat-list-item class="line_simple">UTC {{serviceData.device_activity}} </mat-list-item>
+        <mat-list-item *ngIf="serviceID=='synchrontplayer'" class="line_simple">{{version_number}} </mat-list-item>
+    </mat-list>
+</mat-expansion-panel>
+<ngx-progressbar></ngx-progressbar>

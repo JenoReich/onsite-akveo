@@ -1,0 +1,22 @@
+<mat-accordion *ngFor="let station of stations; let i = index">
+    <mat-card>
+        <mat-card-content>
+            <mat-card-header class="station_location_header">
+                    <h4 class="station_location_id">
+                        <button nbTooltip="{{i+1}}. Station of Route" nbTooltipStatus="secondary" mat-mini-fab color="primary">{{i+1}}</button>
+                        <b>{{ station.locationID }}</b>
+                        <a href="/monitoring/{{ station.locationID }}"><mat-icon nbTooltip="Monitoring Info of Station" nbTooltipStatus="secondary">info</mat-icon></a>
+                        <mat-icon nbTooltip="Start Station" nbTooltipStatus="secondary">play_circle_filled</mat-icon>
+                    </h4>
+            </mat-card-header>
+            <mat-list>
+                <mat-list-item class="station_start_distance"><b>{{ dateformatterFunction(station.station_start) }} - {{ station.station_distance }} km </b></mat-list-item>
+                <mat-list-item class="station_country_address">{{ station.country_name }}: {{ station.location_zip }}, {{ city_name }} - {{ station.location_address }}</mat-list-item>
+                <mat-list-item class="station_gps"> <mat-icon>location_on</mat-icon> GPS: {{ station.location_gps_lat }}, {{ station.location_gps_lng }}</mat-list-item>
+                <mat-list-item class="station_open"><b>Today:&nbsp; </b> {{ opening_hours[station.stationID][0].open }} - {{ opening_hours[station.stationID][0].close }}</mat-list-item>
+                <mat-list-item class="station_close"><b>Tomorrow:&nbsp; </b>{{ opening_hours[station.stationID][1].open }} - {{ opening_hours[station.stationID][1].close }}</mat-list-item>
+            </mat-list>
+        </mat-card-content>
+                <ngx-station-ticket [ticket]="ticket" *ngFor="let ticket of stationTickets[station.stationID]"></ngx-station-ticket>
+    </mat-card>
+</mat-accordion>

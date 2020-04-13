@@ -1,0 +1,10 @@
+<div *ngIf="ticket.ticket_state < 3">
+    <mat-card class="ticket" (click)="TicketPopup()">
+        <mat-card-content>
+            <td><mat-icon>info</mat-icon></td>          
+            <td>#{{ ticket.ticketID }}</td>
+            <td>{{ ticket.ticket_name }}</td>
+            <td>Opened</td>
+        </mat-card-content>
+    </mat-card>
+</div>

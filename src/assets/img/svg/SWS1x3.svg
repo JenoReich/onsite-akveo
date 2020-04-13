@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 110" style="enable-background:new 0 0 32 110;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4B4B4B;}
+	.st1{fill:#7C7C7C;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#E1D9BE;}
+	.st4{fill:#E20074;}
+	.st5{fill:#B0005A;}
+	.st6{}
+	.st7{fill:#FFFFFF;stroke:#7C7C7C;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;stroke:#7C7C7C;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#7C7C7C;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#7C7C7C;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="0" y="41" class="st6 SCREEN INFO INFO1" id="INFO1" fill="#555555" width="31" height="17"/>
+	<path d="M31,41v16H1V41H31 M32,40H0v18h32V40L32,40z"/>
+</g>
+<g>
+	<rect x="0" y="58" class="st6 SCREEN INFO INFO2" id="INFO2" fill="#555555" width="31" height="17"/>
+	<path d="M31,58v16H1V58H31 M32,57H0v18h32V57L32,57z"/>
+</g>
+<g>
+	<rect x="0" y="75" class="st6 SCREEN INFO INFO3" id="INFO3" fill="#555555" width="31" height="17"/>
+	<path d="M31,75v16H1V75H31 M32,74H0v18h32V74L32,74z"/>
+</g>
+</svg>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 160 110" style="enable-background:new 0 0 160 110;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4B4B4B;}
+	.st1{fill:#7C7C7C;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#E1D9BE;}
+	.st4{fill:#E20074;}
+	.st5{fill:#B0005A;}
+	.st6{}
+	.st7{fill:#FFFFFF;stroke:#7C7C7C;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;stroke:#7C7C7C;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#7C7C7C;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#7C7C7C;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<rect x="0" y="40" class="st0" width="32" height="21"/>
+	</g>
+	<g>
+		<rect x="0" y="82" class="st2" width="31" height="4"/>
+		<path class="st1" d="M31,82v3H1v-3H31 M32,81H0v5h32V81L32,81z"/>
+	</g>
+	<!--<g>-->
+		<!--<rect x="0" y="41" class="st6 SCREEN TOP TOP1" id="TOP1" fill="#555555" width="31" height="17"/>-->
+		<!--<path d="M31,41v16H1V41H31 M32,40H0v18h32V40L32,40z"/>-->
+	<!--</g>-->
+	<g>
+		<rect x="0" y="61" width="16" height="20"/>
+	</g>
+	<g>
+		<rect x="16" y="61" width="16" height="20"/>
+	</g>
+	<g>
+		<rect x="1" y="60" class="st6 SCREEN INFO INFO1" id="INFO1" fill="#555555" width="11" height="21"/>
+		<path d="M11,60v20H1V60H11 M12,59H0v22h12V59L12,59z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="32" y="40" class="st0" width="32" height="21"/>
+	</g>
+	<g>
+		<rect x="32" y="82" class="st2" width="31" height="4"/>
+		<path class="st1" d="M63,82v3H33v-3H63 M64,81H32v5h32V81L64,81z"/>
+	</g>
+	<!--<g>-->
+		<!--<rect x="32" y="41" class="st6 SCREEN TOP TOP2" id="TOP2" fill="#555555" width="31" height="17"/>-->
+		<!--<path d="M63,41v16H33V41H63 M64,40H32v18h32V40L64,40z"/>-->
+	<!--</g>-->
+	<g>
+		<rect x="32" y="61" width="16" height="20"/>
+	</g>
+	<g>
+		<rect x="48" y="61" width="16" height="20"/>
+	</g>
+	<g>
+		<rect x="33" y="60" class="st6 SCREEN INFO INFO2" id="INFO2" fill="#555555" width="11" height="21"/>
+		<path d="M43,60v20H33V60H43 M44,59H32v22h12V59L44,59z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="64" y="40" class="st0" width="32" height="21"/>
+	</g>
+	<g>
+		<rect x="64" y="82" class="st2" width="31" height="4"/>
+		<path class="st1" d="M95,82v3H65v-3H95 M96,81H64v5h32V81L96,81z"/>
+	</g>
+	<!--<g>-->
+		<!--<rect x="64" y="41" class="st6 SCREEN TOP TOP3" id="TOP3" fill="#555555" width="31" height="17"/>-->
+		<!--<path d="M95,41v16H65V41H95 M96,40H64v18h32V40L96,40z"/>-->
+	<!--</g>-->
+	<g>
+		<rect x="64" y="61" width="16" height="20"/>
+	</g>
+	<g>
+		<rect x="80" y="61" width="16" height="20"/>
+	</g>
+	<g>
+		<rect x="65" y="60" class="st6 SCREEN INFO INFO3" id="INFO3" fill="#555555" width="11" height="21"/>
+		<path d="M75,60v20H65V60H75 M76,59H64v22h12V59L76,59z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="96" y="40" class="st0" width="32" height="21"/>
+	</g>
+	<g>
+		<rect x="96" y="82" class="st2" width="31" height="4"/>
+		<path class="st1" d="M127,82v3H97v-3H127 M128,81H96v5h32V81L128,81z"/>
+	</g>
+	<!--<g>-->
+		<!--<rect x="96" y="41" class="st6 SCREEN TOP TOP4" id="TOP4" fill="#555555" width="31" height="17"/>-->
+		<!--<path d="M127,41v16H97V41H127 M128,40H96v18h32V40L128,40z"/>-->
+	<!--</g>-->
+	<g>
+		<rect x="96" y="61" width="16" height="20"/>
+	</g>
+	<g>
+		<rect x="112" y="61" width="16" height="20"/>
+	</g>
+	<g>
+		<rect x="97" y="60" class="st6 SCREEN INFO INFO4" id="INFO4" fill="#555555" width="11" height="21"/>
+		<path d="M107,60v20H97V60H107 M108,59H96v22h12V59L108,59z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<rect x="128" y="40" class="st0" width="32" height="21"/>
+	</g>
+	<g>
+		<rect x="128" y="82" class="st2" width="31" height="4"/>
+		<path class="st1" d="M159,82v3h-30v-3H159 M160,81h-32v5h32V81L160,81z"/>
+	</g>
+	<!--<g>-->
+		<!--<rect x="128" y="41" class="st6 SCREEN TOP TOP5" id="TOP5" fill="#555555" width="31" height="17"/>-->
+		<!--<path d="M159,41v16h-30V41H159 M160,40h-32v18h32V40L160,40z"/>-->
+	<!--</g>-->
+	<g>
+		<rect x="128" y="61" width="16" height="20"/>
+	</g>
+	<g>
+		<rect x="144" y="61" width="16" height="20"/>
+	</g>
+	<g>
+		<rect x="129" y="60" class="st6 SCREEN INFO INFO5" id="INFO5" fill="#555555" width="11" height="21"/>
+		<path d="M139,60v20h-10V60H139 M140,59h-12v22h12V59L140,59z"/>
+	</g>
+</g>
+</svg>

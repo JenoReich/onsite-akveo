@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>SVGs</title>
+        <script src="https://srv02-dev.synchront.net/assets/js/jquery.js"></script>
+    </head>
+    <body>
+        <style>
+            object {
+                height: 330px;
+                margin-right: 20px;
+            }
+        </style>
+        <script>
+            function stageSVG(svg, onlyone = false) {
+                $('.SCREEN', svg.contentDocument).each(function(index, element) {
+                    $(element).css('cursor', 'pointer');
+                    $(element).click(function() {
+                        if(onlyone)
+                            $('.SCREEN', svg.contentDocument).attr('fill', '#555555');
+                        
+                        if($(this).attr('fill') == '#555555')
+                            $(this).attr('fill', '#00A0DE');
+                        else    
+                            $(this).attr('fill', '#555555');
+                    });
+                });
+            }
+        </script>
+        <object id="stageMW" onload="stageSVG(this, true);" data="MW.svg?cache=none" type="image/svg+xml"></object>
+        <object id="stageMWS" onload="stageSVG(this, true);" data="MWS.svg?cache=none" type="image/svg+xml"></object>
+        <object id="stageSWS2x2" onload="stageSVG(this, true);" data="SWS2x2.svg?cache=none" type="image/svg+xml"></object>
+    </body>
+</html>

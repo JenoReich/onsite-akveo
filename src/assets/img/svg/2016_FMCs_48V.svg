@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 26 110" style="enable-background:new 0 0 26 110;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4B4B4B;}
+	.st1{fill:#7C7C7C;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#E1D9BE;}
+	.st4{fill:#E20074;}
+	.st5{fill:#B0005A;}
+	.st6{}
+	.st7{fill:#FFFFFF;stroke:#7C7C7C;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;stroke:#7C7C7C;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#7C7C7C;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#7C7C7C;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="0.5" y="37.5" class="st0" width="4" height="67"/>
+	<path class="st1" d="M4,38v66H1V38H4 M5,37H0v68h5V37L5,37z"/>
+</g>
+<g>
+	<rect x="4.5" y="81.5" class="st2" width="17" height="4"/>
+	<path class="st1" d="M21,82v3H5v-3H21 M22,81H4v5h18V81L22,81z"/>
+</g>
+<g>
+	<rect x="5" y="86" width="16" height="19"/>
+</g>
+<g>
+	<rect x="4.5" y="37.5" class="st0" width="17" height="31"/>
+	<path class="st1" d="M21,38v30H5V38H21 M22,37H4v32h18V37L22,37z"/>
+</g>
+<g>
+	<rect x="21.5" y="37.5" class="st0" width="4" height="67"/>
+	<path class="st1" d="M25,38v66h-3V38H25 M26,37h-5v68h5V37L26,37z"/>
+</g>
+<g>
+	<rect x="4.5" y="49.5" class="st6 SCREEN INFO INFO1" id="INFO1" fill="#555555" width="17" height="31"/>
+	<path d="M21,50v30H5V50H21 M22,49H4v32h18V49L22,49z"/>
+</g>
+</svg>

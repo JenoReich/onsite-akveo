@@ -1,0 +1,14 @@
+{
+    "urls": {
+        "production": {},
+        "dev": {
+            "server": "https://onsite-web-dev.art1st.hu/",
+            "endpoints": {
+                "getLocationData": "api/monitoring/getLocationData?locationID=",
+                "planning": "api/routes/planning",
+                "getRoutes": "api/routes?authdata=cmVpY2guamVub0BhcnQxc3QuaHU6JDJ5JDEwJEFQWFV0R0FOTTlEM3dodTlUWHN6LmVmc1Job05MMnRtNkNxbGdWY051UjN5dEtRQU1VY3Bp&routeParams=%7B%7D&user=%7B%22userID%22:251,%22contactID%22:185,%22usertypeID%22:3,%22createduserID%22:249,%22updateduserID%22:249,%22user_name%22:%22reich.jeno@art1st.hu%22,%22user_password%22:%22$2y$10$APXUtGANM9D3whu9TXsz.efsRhoNL2tm6CqlgVcNuR3ytKQAMUcpi%22,%22remember_token%22:%22ooFSVUpy3Iz3h0wqh71sZqhmmXDTLzaUvCiX1AphkwHNfEMBA4qIvxsBdpUJ%22,%22user_api_token%22:null,%22user_active%22:1,%22user_last_login%22:%222020-03-20+15:54:38%22,%22user_language%22:%22en%22,%22user_created%22:%222020-03-19+13:53:12%22,%22user_updated%22:%222020-03-20+15:54:38%22,%22contact_firstname%22:%22Jen%C5%91%22,%22contact_lastname%22:%22Reich%22,%22contact_email%22:%22reich.jeno@art1st.hu%22,%22contact_phone%22:null,%22contact_active%22:1,%22contact_created%22:%222020-03-19+13:53:12%22,%22contact_updated%22:%222020-03-19+13:53:12%22%7D",
+                "monitoring":"api/monitoring?authdata=cmVpY2guamVub0BhcnQxc3QuaHU6JDJ5JDEwJEFQWFV0R0FOTTlEM3dodTlUWHN6LmVmc1Job05MMnRtNkNxbGdWY051UjN5dEtRQU1VY3Bp&user=%7B%22userID%22:251,%22contactID%22:185,%22usertypeID%22:3,%22createduserID%22:249,%22updateduserID%22:249,%22user_name%22:%22reich.jeno@art1st.hu%22,%22user_password%22:%22$2y$10$APXUtGANM9D3whu9TXsz.efsRhoNL2tm6CqlgVcNuR3ytKQAMUcpi%22,%22remember_token%22:%22ooFSVUpy3Iz3h0wqh71sZqhmmXDTLzaUvCiX1AphkwHNfEMBA4qIvxsBdpUJ%22,%22user_api_token%22:null,%22user_active%22:1,%22user_last_login%22:%222020-03-20+15:54:38%22,%22user_language%22:%22en%22,%22user_created%22:%222020-03-19+13:53:12%22,%22user_updated%22:%222020-03-20+15:54:38%22,%22contact_firstname%22:%22Jen%C5%91%22,%22contact_lastname%22:%22Reich%22,%22contact_email%22:%22reich.jeno@art1st.hu%22,%22contact_phone%22:null,%22contact_active%22:1,%22contact_created%22:%222020-03-19+13:53:12%22,%22contact_updated%22:%222020-03-19+13:53:12%22%7D"
+            }
+        }
+    }
+}

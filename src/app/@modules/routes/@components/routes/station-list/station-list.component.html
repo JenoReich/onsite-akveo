@@ -1,0 +1,47 @@
+<!-- <p>station-list works!</p> -->
+<div *ngIf="routes!=undefined">
+<mat-card>
+<div class="stations_inl">
+    <td><i>Stations ({{routes.stations.length}} waypoints)</i></td> 
+    <td><button mat-raised-button class="show_ready_stations_button"> SHOW READY STATIONS </button></td>
+</div>
+<!-- <div>
+    <span><mat-icon>donut_large</mat-icon><mat-icon>location_on</mat-icon></span>
+</div> -->
+</mat-card>
+<mat-accordion>
+    <mat-card>
+        <mat-card-content>
+            <mat-card-header>
+                <mat-list class="start_location">
+                    <mat-list-item>
+                        <mat-icon nbTooltip="Start Location" nbTooltipStatus="secondary">donut_large</mat-icon>
+                        <mat-icon nbTooltip="Show Location?" nbTooltipStatus="secondary">location_on</mat-icon>
+                        <b> {{ routes.startLocation.locationID }} </b>
+                    </mat-list-item>
+                    <mat-list-item>{{ dateformatterFunction(routes.startLocation.station_start) }} - {{ routes.startLocation.station_distance }}km</mat-list-item>
+                    <mat-list-item>{{ routes.startLocation.stationstate_name }}</mat-list-item>
+                </mat-list>
+            </mat-card-header>
+        </mat-card-content>
+    </mat-card>
+</mat-accordion>
+<ngx-station></ngx-station>
+
+<mat-accordion>
+    <mat-card>
+        <mat-card-content>
+            <mat-card-header>
+                <mat-list>
+                    <mat-list-item>
+                        <mat-icon nbTooltip="End Location" nbTooltipStatus="secondary">flag</mat-icon>
+                        <mat-icon nbTooltip="Show Location?" nbTooltipStatus="secondary">location_on</mat-icon>
+                        <b> {{ routes.endLocation.locationID }} </b>
+                    </mat-list-item>
+                    <mat-list-item>{{ dateformatterFunction(routes.endLocation.station_start) }} - {{ routes.endLocation.station_distance }}km</mat-list-item>
+                </mat-list>
+            </mat-card-header>
+        </mat-card-content>
+    </mat-card>
+</mat-accordion>
+</div>

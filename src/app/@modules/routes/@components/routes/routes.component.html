@@ -1,0 +1,50 @@
+<div *ngIf="routes!=undefined">
+    
+    <mat-card class='default1' *ngIf="!showStart">
+        <mat-card-content>
+            <td>
+                <span class ="title"><h6>{{ routes.route.route_name}} - {{ routes.route.route_distance }} km</h6></span>
+            </td>
+            <td>
+                <button nbTooltip="Start / Stop Route" nbTooltipStatus="secondary" mat-button class="app-menu-button" (click)="ShowStations()">
+                    <mat-icon>play_circle_filled</mat-icon>
+                </button>
+            </td>
+            <p class ="date">{{ dateformatterFunction(routes.route.route_start) }} - {{ routes.route.route_distance }} km</p>
+        </mat-card-content>
+        <hr>
+    </mat-card>
+
+
+
+
+
+
+<div *ngIf="!showMap">
+   <!--
+    <ngx-map></ngx-map>
+   --> 
+   <ngx-leaflet></ngx-leaflet>
+</div>
+<div *ngIf="!showStations">
+<mat-card class='default2'>
+    <mat-card-content>
+        <td>
+            <span class ="title"><h6>{{ routes.route.route_name}} - {{ routes.route.route_distance }} km</h6></span>
+        </td>
+        <td>
+            <button nbTooltip="Start / Stop Route" nbTooltipStatus="secondary" mat-button class="app-menu-button" (click)="ShowStations()">
+                <mat-icon>play_circle_filled</mat-icon>
+            </button>
+        </td>
+        <td>
+            <button nbTooltip="Show / Hide Map" nbTooltipStatus="secondary" mat-button class="app-menu-button">
+                <mat-icon>map</mat-icon>
+            </button>
+        </td>
+        <p class ="date">{{ dateformatterFunction(routes.route.route_start) }}</p>
+    </mat-card-content>
+</mat-card>
+    <ngx-station-list></ngx-station-list>
+</div>
+</div>

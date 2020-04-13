@@ -1,0 +1,27 @@
+
+
+<mat-accordion>
+    <mat-expansion-panel>
+      <mat-expansion-panel-header class="dropdown_header_lgrey">
+        <img src="" [title]="stage.icon">   
+        <mat-panel-title>
+            <h3>{{stage.stageID}}</h3>
+        </mat-panel-title>
+        <mat-panel-description>
+            {{stageType}}
+        </mat-panel-description>
+        <mat-panel-description>
+            {{systemID}}
+        </mat-panel-description>
+        <mat-panel-description>
+            {{numberOfDisplays}}
+        </mat-panel-description>
+        </mat-expansion-panel-header>
+            <ngx-device *ngFor="let devicePosition of furtherStageData" 
+            [deviceData]="deviceData" [devicePosition]="devicePosition"></ngx-device>
+            
+            <!-- azon _devicePositions adatok kellenek, ahol az elem == devicepositionID -->
+            
+
+    </mat-expansion-panel>
+</mat-accordion>

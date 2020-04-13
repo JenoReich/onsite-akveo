@@ -1,0 +1,25 @@
+<!-- <p>location-search works!</p> -->
+<mat-card>
+    <mat-form-field>
+        <mat-label>Search Location</mat-label>
+        <mat-icon matSuffix>search</mat-icon>
+        <input type="text" placeholder="" aria-label="Number" matInput [formControl]="myControl"
+            [matAutocomplete]="auto">
+        <mat-autocomplete #auto="matAutocomplete">
+
+            <!--
+            wait until the data is being requested and put it into 'options' array
+            -->
+            <div *ngIf="options.length>0">
+                <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
+                    {{option}}
+                </mat-option>
+            </div>
+        </mat-autocomplete>
+    </mat-form-field>
+
+    <!--
+    wait until the input field will get the selected locationID
+    -->
+    <button *ngIf="selections[0]==myControl.value && selections.length>0" mat-button (click)="getLocationData()">Look at it!</button>
+</mat-card>

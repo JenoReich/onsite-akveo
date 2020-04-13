@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 96 110" style="enable-background:new 0 0 96 110;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4B4B4B;}
+	.st1{fill:#7C7C7C;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#E1D9BE;}
+	.st4{fill:#E20074;}
+	.st5{fill:#B0005A;}
+	.st6{}
+	.st7{fill:#FFFFFF;stroke:#7C7C7C;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;stroke:#7C7C7C;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#7C7C7C;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#7C7C7C;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect y="40" class="st0" width="32" height="21"/>
+</g>
+<g>
+	<rect x="0.5" y="81.5" class="st2" width="31" height="4"/>
+	<path class="st1" d="M31,82v3H1v-3H31 M32,81H0v5h32V81L32,81z"/>
+</g>
+<g>
+	<rect x="0.5" y="40.5" width="31" height="17" class="st6 SCREEN TOP TOP1" id="TOP1" fill="#555555"/>
+	<path d="M31,41v16H1V41H31 M32,40H0v18h32V40L32,40z"/>
+</g>
+<g>
+	<rect y="61" width="16" height="20"/>
+</g>
+<g>
+	<rect x="16" y="61" width="16" height="20"/>
+</g>
+<g>
+	<rect x="32" y="40" class="st0" width="32" height="21"/>
+</g>
+<g>
+	<rect x="32.5" y="81.5" class="st2" width="31" height="4"/>
+	<path class="st1" d="M63,82v3H33v-3H63 M64,81H32v5h32V81L64,81z"/>
+</g>
+<g>
+	<rect x="32.5" y="40.5" width="31" height="17" class="st6 SCREEN TOP TOP2" id="TOP2" fill="#555555"/>
+	<path d="M63,41v16H33V41H63 M64,40H32v18h32V40L64,40z"/>
+</g>
+<g>
+	<rect x="32" y="61" width="16" height="20"/>
+</g>
+<g>
+	<rect x="48" y="61" width="16" height="20"/>
+</g>
+<g>
+	<rect x="64" y="40" class="st0" width="32" height="21"/>
+</g>
+<g>
+	<rect x="64.5" y="81.5" class="st2" width="31" height="4"/>
+	<path class="st1" d="M95,82v3H65v-3H95 M96,81H64v5h32V81L96,81z"/>
+</g>
+<g>
+	<rect x="64.5" y="40.5" width="31" height="17" class="st6 SCREEN TOP TOP3" id="TOP3" fill="#555555"/>
+	<path d="M95,41v16H65V41H95 M96,40H64v18h32V40L96,40z"/>
+</g>
+<g>
+	<rect x="64" y="61" width="16" height="20"/>
+</g>
+<g>
+	<rect x="80" y="61" width="16" height="20"/>
+</g>
+</svg>

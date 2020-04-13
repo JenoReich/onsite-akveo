@@ -1,0 +1,38 @@
+<div *ngIf="storage.locationData!=undefined">
+  <mat-accordion>
+    <mat-expansion-panel>
+      <mat-expansion-panel-header class="dropdown_header_lgrey">
+        <mat-panel-title>BASE DATA</mat-panel-title>
+      </mat-expansion-panel-header>
+      <p>{{ countrycode }}{{ zip_city }}</p>
+
+      <p>{{ address }}</p>
+
+      <p>{{ description }}</p>
+
+      <p>Code: {{ location_code }}</p>
+    </mat-expansion-panel>
+  </mat-accordion>
+
+  <mat-accordion>
+    <mat-expansion-panel>
+      <mat-expansion-panel-header class="dropdown_header_lgrey">
+        <mat-panel-title>OPENING HOURS</mat-panel-title>
+      </mat-expansion-panel-header>
+      <div *ngFor="let day of storage.locationData.days">
+        <p>{{ day.day_name }}</p>
+      </div>
+    </mat-expansion-panel>
+  </mat-accordion>
+
+  <mat-accordion>
+    <mat-card class="simple">
+      <mat-card-content>
+        <h2>STAGES</h2>
+      </mat-card-content>
+    </mat-card>
+  </mat-accordion>
+</div>
+
+<ngx-stage *ngFor="let stage of stages" [systemID]="systemID" [numberOfDisplays]="numberOfDisplays"
+  [deviceData]="deviceData" [stage]="stage" [stageData]="stageData" [stageType]="stageTypeID"></ngx-stage>

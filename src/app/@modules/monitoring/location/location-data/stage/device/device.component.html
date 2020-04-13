@@ -1,0 +1,7 @@
+<p mat-list-item>{{devicePosition.devicepositionID}}</p>
+<p mat-list-item>{{devicePosition.deviceID}}</p>
+<p mat-list-item>{{devicePropertyValue}}</p>
+<img mat-list-item style="max-width: 10vw;max-height:10vh" src="/assets/svg/David-Hasselhoff-20.jpg">
+<!-- azon _devicePositions adatok kellenek, ahol az elem == devicepositionID -->
+<ngx-service *ngFor="let servicePack of servicePacks" [deviceData]="deviceData" [serviceData]="servicePack"
+    [serviceID]="serviceID"></ngx-service>

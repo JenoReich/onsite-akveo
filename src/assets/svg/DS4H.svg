@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 156 110" style="enable-background:new 0 0 156 110;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4B4B4B;}
+	.st1{fill:#7C7C7C;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#E1D9BE;}
+	.st4{fill:#E20074;}
+	.st5{fill:#B0005A;}
+	.st6{}
+	.st7{fill:#FFFFFF;stroke:#7C7C7C;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st8{fill:#FFFFFF;stroke:#7C7C7C;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#7C7C7C;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#7C7C7C;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect y="41" class="st6 SCREEN TOP TOP1" id="TOP1" fill="#555555" width="31" height="17"/>
+	<path d="M31,41v16H1V41H31 M32,40H0v18h32V40L32,40z"/>
+</g>
+<g>
+	<rect x="31" y="41" class="st6 SCREEN TOP TOP2" id="TOP2" fill="#555555" width="31" height="17"/>
+	<path d="M62,41v16H32V41H62 M63,40H31v18h32V40L63,40z"/>
+</g>
+<g>
+	<rect x="62" y="41" class="st6 SCREEN TOP TOP3" id="TOP3" fill="#555555" width="31" height="17"/>
+	<path d="M93,41v16H63V41H93 M94,40H62v18h32V40L94,40z"/>
+</g>
+<g>
+	<rect x="93" y="41" class="st6 SCREEN TOP TOP4" id="TOP4" fill="#555555" width="31" height="17"/>
+	<path d="M124,41v16H94V41H124 M125,40H93v18h32V40L125,40z"/>
+</g>
+</svg>
